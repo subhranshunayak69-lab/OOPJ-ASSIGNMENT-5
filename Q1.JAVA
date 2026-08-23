@@ -1,6 +1,6 @@
 import java.lang.*;
 
-class ASQ1
+class A5Q1
 {
     public static void main(String args[])
     {
